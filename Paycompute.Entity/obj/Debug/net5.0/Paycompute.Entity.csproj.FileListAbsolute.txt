@@ -1,0 +1,11 @@
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\bin\Debug\net5.0\Paycompute.Entity.deps.json
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\bin\Debug\net5.0\Paycompute.Entity.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\bin\Debug\net5.0\ref\Paycompute.Entity.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\bin\Debug\net5.0\Paycompute.Entity.pdb
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.AssemblyInfo.cs
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\ref\Paycompute.Entity.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.pdb

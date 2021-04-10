@@ -1,0 +1,15 @@
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\bin\Debug\net5.0\Paycompute.Entity.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\obj\Debug\net5.0\Paycompute.Persistence.csprojAssemblyReference.cache
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\obj\Debug\net5.0\Paycompute.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\obj\Debug\net5.0\Paycompute.Persistence.AssemblyInfoInputs.cache
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\obj\Debug\net5.0\Paycompute.Persistence.AssemblyInfo.cs
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\bin\Debug\net5.0\Paycompute.Persistence.deps.json
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\bin\Debug\net5.0\Paycompute.Persistence.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\bin\Debug\net5.0\ref\Paycompute.Persistence.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\bin\Debug\net5.0\Paycompute.Persistence.pdb
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\bin\Debug\net5.0\Paycompute.Entity.pdb
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\obj\Debug\net5.0\Paycompute.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\obj\Debug\net5.0\Paycompute.Persistence.csproj.CopyComplete
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\obj\Debug\net5.0\Paycompute.Persistence.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\obj\Debug\net5.0\ref\Paycompute.Persistence.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Persistence\obj\Debug\net5.0\Paycompute.Persistence.pdb

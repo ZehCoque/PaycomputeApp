@@ -1,0 +1,17 @@
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\bin\Debug\net5.0\Paycompute.Service.deps.json
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\bin\Debug\net5.0\Paycompute.Service.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\bin\Debug\net5.0\ref\Paycompute.Service.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\bin\Debug\net5.0\Paycompute.Service.pdb
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\bin\Debug\net5.0\Paycompute.Entity.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\bin\Debug\net5.0\Paycompute.Persistence.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\bin\Debug\net5.0\Paycompute.Entity.pdb
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\bin\Debug\net5.0\Paycompute.Persistence.pdb
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\obj\Debug\net5.0\Paycompute.Service.csprojAssemblyReference.cache
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\obj\Debug\net5.0\Paycompute.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\obj\Debug\net5.0\Paycompute.Service.AssemblyInfoInputs.cache
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\obj\Debug\net5.0\Paycompute.Service.AssemblyInfo.cs
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\obj\Debug\net5.0\Paycompute.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\obj\Debug\net5.0\Paycompute.Service.csproj.CopyComplete
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\obj\Debug\net5.0\Paycompute.Service.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\obj\Debug\net5.0\ref\Paycompute.Service.dll
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Service\obj\Debug\net5.0\Paycompute.Service.pdb
