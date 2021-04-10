@@ -18,4 +18,5 @@ namespace Paycompute.Models
         public string City { get; set; }
 
     }
+
 }

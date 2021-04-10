@@ -9,3 +9,4 @@ C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycomp
 C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.dll
 C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\ref\Paycompute.Entity.dll
 C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.pdb
+C:\Users\Ze\Desktop\App\PaycomputeApp\Paycompute.Entity\obj\Debug\net5.0\Paycompute.Entity.csprojAssemblyReference.cache
